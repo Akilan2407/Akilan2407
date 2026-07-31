@@ -44,20 +44,7 @@
 - OpenCV  
 - PIL  
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Akilan2407&theme=tokyonight" />
-</p>
-
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akilan2407&theme=tokyo-night" />
-</p>
-
----
 
 ## 🔗 Connect With Me
 
