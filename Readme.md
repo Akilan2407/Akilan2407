@@ -2,7 +2,6 @@
 <h3 align="center">MSc Software Systems Student | Python Developer | ML Enthusiast</h3>
 
 ## 🚀 About Me
-
 - 🎓 MSc Software Systems @ CIT  
 - 🧑‍💼 **Secretary @ FOSS-CIT (Free & Open Source Software Club)**  
 - 💻 Passionate about **Python, Machine Learning, and Web Development**  
